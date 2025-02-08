@@ -4,7 +4,7 @@
 This **Power BI** dashboard provides an interactive analysis of sales, customer segments, and product trends for a **retail store**. The dataset includes order details,**sales performance, shipping trends**, and **customer** **demographics.**
 
 ## 📂 Dataset Overview
-The dataset contains:
+**The dataset contains:**
 - **Order Details:** Order ID, Order Date, Ship Date, Ship Mode
 - **Customer Information:** Customer ID, Name, Segment, Location (City, State, Country)
 - **Product Details:** Category, Sub-Category, Product Name
