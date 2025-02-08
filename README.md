@@ -1,7 +1,7 @@
 # 📊 SuperStore Sales Dashboard (Power BI)
 
 ## 📌 About the Project
-This Power BI dashboard provides an interactive analysis of sales, customer segments, and product trends for a retail store. The dataset includes order details, sales performance, shipping trends, and customer demographics.
+This **Power BI** dashboard provides an interactive analysis of sales, customer segments, and product trends for a **retail store**. The dataset includes order details,**sales performance, shipping trends**, and ****customer** **demographics.**
 
 ## 📂 Dataset Overview
 The dataset contains:
